@@ -1,7 +1,7 @@
 # Le bon globe-trotteur
 
-voyage
-: fait de partir loin de où l'on vit (
+Voyage, n.m.
+: fait de partir loin de où l'on vit
 
 
 **Pour voyager léger, il vous faut :**
@@ -10,9 +10,9 @@ voyage
 2. Un peu d'argent
 3. Votre sourire
 
-*N'oubliez jamais... Vivre un rêve, c'est être bonne humeur, gentil et passionné par la vie !*
+*N'oubliez jamais... Vivre un rêve, c'est être de bonne humeur, gentil, et passionné par la vie !*
 
 
-[MonSiteWeb](https://www.globetrotteuse.org)
+[Mon site web](https://www.unige.ch/)
 
-[^1]: Créé par LaGlobeTrotteuse, copyright 2019
+[^1]: Créé par LaGlobeTrotteuse, *Copyright 2019*
