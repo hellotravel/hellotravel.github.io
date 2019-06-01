@@ -15,4 +15,4 @@ Voyage, n.m.
 
 [Mon site web](https://www.unige.ch/)
 
-[^1]: Créé par LaGlobeTrotteuse, *Copyright 2019*
+Créé par LaGlobeTrotteuse, *Copyright 2019* [^1]
