@@ -1,6 +1,6 @@
-# Le bon globe-trotteur
+## Le bon globe-trotteur
 
-## Voyage, n.m.
+Voyage, n.m.
 : fait de partir loin d'où l'on vit
 
 
