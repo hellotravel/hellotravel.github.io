@@ -1,6 +1,6 @@
 # Le bon globe-trotteur
 
-Voyage, n.m.
+## Voyage, n.m.
 : fait de partir loin d'où l'on vit
 
 
@@ -12,7 +12,6 @@ Voyage, n.m.
 
 *N'oubliez jamais... Vivre un rêve, c'est être de bonne humeur, gentil, et passionné par la vie !*
 
+~~Voyager coûte cher~~ --> Il suffit de se lancer
 
 [Mon site web](https://www.unige.ch/)
-
-Créé par LaGlobeTrotteuse, *Copyright 2019* [^1]
