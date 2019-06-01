@@ -1,7 +1,7 @@
 # Le bon globe-trotteur
 
 Voyage, n.m.
-: fait de partir loin de où l'on vit
+: fait de partir loin d'où l'on vit
 
 
 **Pour voyager léger, il vous faut :**
