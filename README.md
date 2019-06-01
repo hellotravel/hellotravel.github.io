@@ -14,4 +14,4 @@ Voyage, n.m.
 
 ~~Voyager coûte cher~~ --> Il suffit de se lancer
 
-[Mon site web](https://www.unige.ch/)
+[Voyagez entre étudiants](https://www.unige.ch/)
